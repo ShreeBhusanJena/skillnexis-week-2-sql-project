@@ -1,54 +1,45 @@
-**SkillNexis Internship - Week 2 SQL Project**
+# SkillNexis Internship – Week 2 SQL Project
 
+## Project Overview
 
+This project analyzes sales data using SQL and MySQL Workbench to understand sales performance, customer spending, and order values.
 
-**Project Overview**
+## Dataset
 
+The dataset contains 200 sales records with information about customers, products, order dates, categories, prices, quantities, and regions.
 
+## Tools Used
 
-This project analyzes sales data using MySQL.
+* MySQL Workbench
+* SQL
+* Microsoft Excel
 
+## SQL Concepts Used
 
+* SELECT
+* WHERE
+* COUNT(), SUM(), AVG()
+* GROUP BY
+* ORDER BY
+* LIMIT
+* CASE statements
+* Subqueries
+* Sales analysis by category
+* Top 5 customers by total spending
+* Average order value analysis
 
-**Dataset**
+## Key Insights
 
+* Furniture generated the highest total sales.
+* Grocery ranked second in total sales.
+* Lynn Garrison was the top customer by total spending.
 
+## Project Files
 
-The dataset contains 200 sales records with customer, product, pricing, category, and regional information.
+* `analysis.sql` – SQL queries used for the analysis.
+* `SQL_Sales_Dataset_200_Rows.xlsx` – Original sales dataset.
+* `README.md` – Project overview and documentation.
 
+## Conclusion
 
-
-**Tools Used**
-
-
-
-\* MySQL Workbench
-
-\* SQL
-
-
-
-**SQL Concepts Used**
-
-
-
-\* SELECT
-
-\* COUNT, SUM, AVG
-
-\* GROUP BY
-
-\* ORDER BY
-
-
-
-**Project Files**
-
-
-
-\* `analysis.sql` — SQL queries used for sales analysis.
-
-\* `SQL\_Sales\_Dataset\_200\_Rows.xlsx` — Original dataset.
-
-
-
+This project demonstrates the use of SQL queries to analyze sales data and identify useful business insights.
